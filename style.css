@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+
+.fullShow{
+  padding: 5px 0;
+  text-decoration: none;
+  color: blue;
+}
+
+.fullShow:hover{
+  color: red;
+}
